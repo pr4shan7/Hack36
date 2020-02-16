@@ -11,3 +11,7 @@ The initial apporach to the solution lies in the identification of these hotspot
 ## The Solution
 
 The obvious solution to this problem is the reduction of cabs to increase traffic speed and free these routes by replacing them with appropriate options. These options could have a very wide range depending upon the dataset provided and party of interest. Whoever the implementer be, one thing is for sure that identification of replacing these extra traffic generating elements would drastically have an effect on the environment, mainly in terms of reduced pollution level, cost-effeciency of daily and inevitable commute and the reduced time spent on the same, hence resulting in increased productivity of both the consumer, as they would be spending less time being stuck in traffic and more in activities requiring more attention as well as time, and the service providing agency as they will be spending less capital in terms of burning fuel, maintenance of less vehicles etc. These service providers could be anyone like the cab companies who want to come up with more eco-friendly and cost-efficient options to provide service to their customers, or the government who could channel their public transport on routes that require more attention than the ones where these transports are not used as much.
+
+---
+
+[link to images](/images)
